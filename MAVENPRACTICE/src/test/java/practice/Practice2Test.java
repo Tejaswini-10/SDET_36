@@ -7,6 +7,7 @@ public class Practice2Test {
 	public void practice2Test()
 	{
 		System.out.println("Test2");
+		//godd
 	}
 //hi test not executed/");
 }
